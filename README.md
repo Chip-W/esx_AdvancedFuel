@@ -1,3 +1,6 @@
+
+# This resource has been archived and will no longer be updated
+
 # Original script by n0thus on FiveM.
 
 # My edits:
